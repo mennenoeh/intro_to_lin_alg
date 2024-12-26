@@ -53,6 +53,10 @@ pip install -r requirements.txt
 ### **5. Beiträge**
 Beiträge sind herzlich willkommen! Reichen Sie gerne einen Pull Request ein, wenn Sie Verbesserungen, Korrekturen oder Ideen haben.
 
+---
+---
+
+
 
 ### **English Version**
 
